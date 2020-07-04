@@ -1,0 +1,73 @@
+Employee_ID,Gender,Age,Education_Level,Relationship_Status,Hometown,Unit,Decision_skill_possess,Time_of_service,Time_since_promotion,growth_rate,Travel_Rate,Post_Level,Pay_Scale,Compensation_and_Benefits,Work_Life_balance,VAR1,VAR2,VAR3,VAR4,VAR5,VAR6,VAR7,Attrition_rate
+EID_25100,F,37.0,4,Single,Springfield,Logistics,Conceptual,12.0,4,59,1,2,4.0,type4,3.0,3,0.7516,0.7075,2.0,3,8,3,0.9262
+EID_7146,M,46.0,2,Married,Springfield,Sales,Directive,21.0,1,55,0,5,6.0,type3,2.0,5,0.7516,-0.4537,3.0,3,7,3,0.9696
+EID_25009,F,35.0,3,Married,Washington,Production,Analytical,13.0,4,61,0,1,8.0,type3,2.0,3,-1.8176,0.7075,1.0,1,7,1,0.9391
+EID_21825,F,31.0,3,Married,Lebanon,Sales,Behavioral,3.0,1,63,2,4,6.0,type3,4.0,1,0.7516,0.7075,2.0,3,9,3,0.9299
+EID_24065,F,54.0,4,Married,Clinton,Purchasing,Analytical,26.0,1,54,0,5,4.0,type3,4.0,1,-1.8176,-0.4537,2.0,2,5,4,0.9853
+EID_3331,M,55.0,3,Married,Springfield,Quality,Behavioral,17.0,1,43,0,3,3.0,type2,2.0,4,0.7516,0.7075,2.0,2,9,3,0.9501
+EID_3107,M,60.0,3,Single,Clinton,Logistics,Conceptual,30.0,4,70,1,2,8.0,type2,3.0,3,-0.9612,-0.4537,2.0,5,8,1,0.9017
+EID_24119,M,47.0,3,Married,Springfield,Operarions,Directive,20.0,1,32,0,4,6.0,type2,3.0,3,1.6081,0.7075,3.0,2,7,4,0.9444
+EID_3575,M,64.0,1,Single,Lebanon,Accounting and Finance,Behavioral,30.0,4,42,2,3,2.0,type2,3.0,2,0.7516,0.7075,1.0,3,5,5,0.9447
+EID_24705,M,35.0,2,Single,Lebanon,Marketing,Behavioral,6.0,3,40,0,1,4.0,type3,3.0,2,0.7516,0.7075,,3,6,1,0.938
+EID_20117,F,28.0,4,Single,Lebanon,Quality,Behavioral,6.0,4,56,0,4,9.0,type3,1.0,3,-0.9612,-2.7762,2.0,3,7,3,0.9808
+EID_11876,M,31.0,3,Married,Washington,IT,Directive,2.0,2,57,0,2,10.0,type2,2.0,3,,0.7075,2.0,3,5,4,0.9217
+EID_3991,M,53.0,3,Married,Clinton,R&D,Behavioral,20.0,2,27,2,2,7.0,type3,1.0,2,-0.1048,0.7075,2.0,3,6,4,0.9522
+EID_6525,M,44.0,2,Married,Washington,Accounting and Finance,Behavioral,19.0,4,37,1,2,5.0,type3,2.0,5,,0.7075,2.0,2,6,1,0.9688
+EID_11011,M,34.0,3,Single,Franklin,Sales,Behavioral,6.0,4,47,0,2,4.0,type4,1.0,3,0.7516,-1.615,2.0,4,8,3,0.9143
+EID_2176,F,54.0,5,Married,Lebanon,R&D,Conceptual,32.0,1,66,1,3,4.0,type2,4.0,3,-0.9612,-0.4537,1.0,3,6,2,0.9242
+EID_3166,F,51.0,2,Married,Franklin,Logistics,Analytical,14.0,1,64,1,5,6.0,type2,2.0,3,-0.9612,-1.615,2.0,4,8,5,0.969
+EID_17178,M,21.0,3,Married,Franklin,Sales,Analytical,2.0,1,66,2,4,7.0,type2,3.0,3,,-0.4537,2.0,4,7,3,0.9391
+EID_15885,M,30.0,1,Married,Springfield,IT,Behavioral,6.0,2,30,2,3,6.0,type1,2.0,4,-0.1048,1.8688,2.0,4,6,3,0.9794
+EID_7669,M,60.0,4,Single,Clinton,Sales,Conceptual,34.0,2,71,2,3,4.0,type2,3.0,3,0.7516,0.7075,,3,6,2,0.9612
+EID_12591,F,38.0,4,Married,Lebanon,Logistics,Conceptual,12.0,1,31,1,2,4.0,type3,3.0,2,-0.9612,-1.615,,5,7,3,0.9194
+EID_18134,F,21.0,4,Married,Washington,Quality,Directive,2.0,1,25,2,2,4.0,type2,1.0,4,-0.9612,-0.4537,1.0,2,5,3,0.9572
+EID_24845,F,31.0,3,Married,Clinton,Human Resource Management,Directive,3.0,1,32,0,3,9.0,type2,1.0,3,-0.1048,-0.4537,3.0,2,7,3,0.9315
+EID_3175,F,51.0,5,Single,Lebanon,Production,Behavioral,21.0,4,34,1,1,6.0,type3,3.0,3,0.7516,0.7075,2.0,3,8,3,0.993
+EID_1863,F,55.0,4,Married,Franklin,Logistics,Analytical,27.0,4,21,1,4,2.0,type3,4.0,3,-1.8176,0.7075,2.0,2,7,4,0.9795
+EID_22364,F,42.0,5,Single,Springfield,IT,Conceptual,12.0,3,69,0,2,3.0,type2,2.0,3,,0.7075,1.0,4,8,3,0.9821
+EID_19365,M,20.0,3,Married,Franklin,Sales,Analytical,1.0,1,53,0,1,3.0,type4,5.0,3,0.7516,-0.4537,2.0,4,5,3,0.9513
+EID_22057,F,47.0,1,Single,Washington,Sales,Directive,8.0,4,54,1,3,4.0,type3,1.0,3,0.7516,1.8688,2.0,2,7,5,0.9957
+EID_1243,F,58.0,4,Single,Lebanon,IT,Directive,31.0,3,58,1,1,8.0,type3,3.0,3,-0.1048,-0.4537,2.0,2,5,4,0.9307
+EID_11549,F,32.0,3,Married,Lebanon,Human Resource Management,Analytical,10.0,4,58,2,1,5.0,type3,3.0,4,-0.1048,-0.4537,1.0,3,8,1,0.9776
+EID_15865,F,27.0,3,Single,Clinton,R&D,Conceptual,4.0,1,35,0,3,6.0,type0,1.0,4,-0.1048,-0.4537,2.0,4,9,5,0.906
+EID_17715,F,25.0,3,Married,Clinton,Operarions,Conceptual,6.0,4,51,1,1,6.0,type2,4.0,3,-0.1048,0.7075,2.0,3,8,3,0.9538
+EID_17138,F,22.0,4,Married,Franklin,Sales,Directive,3.0,2,32,0,5,8.0,type3,1.0,2,0.7516,-0.4537,1.0,3,6,3,0.9385
+EID_17392,M,22.0,5,Married,Lebanon,Sales,Analytical,3.0,3,49,1,4,4.0,type2,3.0,3,-1.8176,0.7075,2.0,4,5,3,0.9429
+EID_9008,M,39.0,3,Married,Franklin,R&D,Conceptual,,2,63,1,1,5.0,type2,2.0,3,-1.8176,-0.4537,1.0,3,8,4,0.9033
+EID_20371,F,35.0,3,Married,Franklin,Logistics,Analytical,9.0,2,46,1,2,3.0,type2,3.0,3,0.7516,0.7075,3.0,4,6,3,0.9462
+EID_24715,F,28.0,1,Single,Franklin,R&D,Directive,4.0,4,61,1,1,8.0,type3,3.0,3,0.7516,-0.4537,2.0,3,7,3,0.9361
+EID_21804,F,47.0,4,Single,Lebanon,Logistics,Behavioral,15.0,1,65,1,3,6.0,type2,2.0,3,-1.8176,0.7075,2.0,1,6,4,0.9959
+EID_9168,M,47.0,4,Single,Franklin,R&D,Analytical,25.0,2,33,1,5,9.0,type4,4.0,3,-0.9612,-0.4537,1.0,4,7,1,0.9138
+EID_12414,F,32.0,1,Single,Franklin,IT,Directive,9.0,1,30,0,2,5.0,type3,2.0,3,0.7516,-0.4537,2.0,4,7,4,0.9345
+EID_13855,F,30.0,3,Married,Springfield,Human Resource Management,Analytical,8.0,2,20,1,4,4.0,type2,3.0,4,-0.1048,-0.4537,,2,7,1,0.952
+EID_22564,M,19.0,4,Married,Washington,Operarions,Analytical,0.0,0,74,0,2,10.0,type3,3.0,3,-0.1048,-0.4537,1.0,2,9,3,0.9743
+EID_2834,F,56.0,3,Married,Lebanon,R&D,Analytical,20.0,1,26,1,1,7.0,type2,1.0,3,1.6081,0.7075,1.0,2,8,3,0.9178
+EID_2042,F,59.0,5,Married,Springfield,Accounting and Finance,Behavioral,27.0,2,54,0,5,4.0,type2,3.0,4,-0.9612,-0.4537,3.0,1,6,3,0.9052
+EID_22840,F,42.0,4,Single,Franklin,Purchasing,Analytical,7.0,4,71,1,1,8.0,type3,1.0,4,-0.9612,1.8688,2.0,1,7,3,0.9507
+EID_14378,F,26.0,3,Single,Lebanon,Logistics,Directive,4.0,3,23,1,4,4.0,type2,4.0,3,-0.1048,-0.4537,2.0,2,8,3,0.9823
+EID_16210,F,29.0,3,Married,Springfield,Purchasing,Analytical,7.0,3,60,0,3,8.0,type3,3.0,3,,-0.4537,1.0,2,7,3,0.9693
+EID_21072,M,54.0,4,Married,Clinton,Logistics,Behavioral,15.0,1,70,0,3,6.0,type2,4.0,3,-1.8176,-0.4537,2.0,3,8,3,0.9369
+EID_17424,M,24.0,2,Married,Springfield,Logistics,Behavioral,,2,61,0,3,4.0,type3,2.0,3,0.7516,-0.4537,2.0,3,6,4,0.9852
+EID_23896,F,45.0,4,Married,Franklin,Purchasing,Analytical,17.0,2,66,1,3,6.0,type3,5.0,3,-0.1048,-1.615,2.0,3,8,3,0.991
+EID_14937,M,28.0,3,Married,Springfield,R&D,Directive,6.0,4,64,1,2,8.0,type2,2.0,5,-0.1048,-0.4537,,2,8,3,0.976
+EID_1193,M,57.0,2,Married,Franklin,Purchasing,Analytical,20.0,2,43,1,1,8.0,type4,3.0,2,0.7516,-0.4537,2.0,2,8,4,0.9097
+EID_16669,F,28.0,2,Married,Lebanon,Sales,Conceptual,5.0,4,55,0,3,1.0,type3,4.0,2,1.6081,-0.4537,1.0,3,9,1,0.9121
+EID_4924,F,47.0,1,Married,Lebanon,R&D,Conceptual,22.0,4,51,1,2,5.0,type2,2.0,3,-1.8176,0.7075,2.0,3,7,4,0.9479
+EID_9161,F,38.0,3,Single,Lebanon,IT,Analytical,10.0,4,60,1,3,6.0,type3,5.0,3,-0.9612,1.8688,2.0,3,6,4,0.987
+EID_24087,M,30.0,3,Married,Franklin,Accounting and Finance,Conceptual,6.0,4,32,1,5,6.0,type2,3.0,3,-1.8176,-0.4537,1.0,4,9,3,0.9201
+EID_9162,M,47.0,2,Single,Franklin,Sales,Conceptual,13.0,3,39,0,4,8.0,type2,3.0,4,,-1.615,2.0,3,5,3,0.9886
+EID_15406,F,24.0,3,Married,Lebanon,Sales,Analytical,5.0,2,67,0,3,2.0,type1,1.0,4,-0.9612,-0.4537,2.0,2,7,4,0.9635
+EID_13289,M,31.0,1,Married,Springfield,R&D,Directive,8.0,1,54,2,4,3.0,type4,3.0,3,-0.9612,-0.4537,2.0,4,7,4,0.9475
+EID_12423,F,39.0,4,Married,Lebanon,Sales,Directive,15.0,4,57,0,3,3.0,type2,4.0,3,,1.8688,2.0,3,6,3,0.9483
+EID_6433,M,53.0,3,Single,Springfield,IT,Analytical,24.0,4,56,2,3,6.0,type4,1.0,4,-1.8176,-0.4537,1.0,2,8,5,0.9865
+EID_21441,F,42.0,2,Married,Springfield,Human Resource Management,Conceptual,19.0,4,37,1,1,2.0,type3,1.0,5,-0.9612,-0.4537,,2,8,5,0.9882
+EID_20713,F,37.0,3,Married,Lebanon,Human Resource Management,Directive,11.0,2,40,1,4,10.0,type2,4.0,3,-0.9612,0.7075,2.0,4,8,3,0.9162
+EID_14272,M,25.0,3,Married,Springfield,Accounting and Finance,Conceptual,6.0,3,57,1,2,5.0,type4,4.0,4,0.7516,0.7075,2.0,4,6,2,0.9897
+EID_10733,F,34.0,3,Married,Franklin,IT,Conceptual,8.0,3,20,2,3,9.0,type2,3.0,4,-0.9612,-0.4537,1.0,3,8,4,0.9288
+EID_12428,F,30.0,4,Married,Springfield,Operarions,Directive,8.0,4,25,1,1,6.0,type3,3.0,3,0.7516,0.7075,2.0,4,9,3,0.9632
+EID_19403,M,21.0,2,Married,Springfield,Purchasing,Behavioral,2.0,2,67,1,2,6.0,type2,3.0,4,-0.1048,0.7075,3.0,2,7,3,0.9049
+EID_25342,F,30.0,4,Married,Lebanon,Sales,Conceptual,8.0,1,53,0,5,4.0,type3,3.0,2,1.6081,-1.615,2.0,2,5,4,0.9391
+EID_14960,M,30.0,4,Married,Franklin,Operarions,Behavioral,6.0,2,74,0,4,7.0,type2,4.0,3,-1.8176,-0.4537,2.0,3,6,3,0.9604
+EID_18791,M,22.0,2,Married,Washington,Security,Analytical,3.0,3,20,1,4,3.0,type2,1.0,1,0.7516,0.7075,2.0,3,8,2,0.9053
+EID_25414,F,27.0,5,Single,Franklin,IT,Conceptual,3.0,2,23,0,3,10.0,type2,3.0,3,0.7516,-0.4537,2.0,2,8,4,0.9615
+EID_17155,M,27.0,3,Married,Franklin,Security,Analytical,5.0,1,63,1,5,7.0,type2,3.0,3,-0.1048,-0.4537,2.0,2,7,2,0.9735
